@@ -6,4 +6,4 @@ class PleaseSayUra
         Console.WriteLine("Ура!");
         Console.ReadLine();
     }
-}
+} 
